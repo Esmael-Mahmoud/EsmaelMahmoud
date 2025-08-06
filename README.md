@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ebrahim Shaban</h1>
+<h1 align="center">I'm Esmael Mahmoud</h1>
 
 <h2 align="center"> .NET Developer | Full Stack</h2>
 <br>
@@ -15,10 +15,10 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/ebrahim-shaban-mosa"> <!-- LinkedIn Profile -->
+    <a href="www.linkedin.com/in/esmael-mahmoud-959480230"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
-    <a href="https://wa.me/201555178340"> <!-- WhatsApp  -->
+    <a href="https://wa.me/201014460254"> <!-- WhatsApp  -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
   </p>
@@ -36,6 +36,4 @@
     <img src="https://streak-stats.demolab.com/?user=EbrahimShabann&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
   </p>
 
-  <p align="left">
-    <img src="gif/Ebrahim Shaban.gif"> <!-- Snake -->
-  </p>
+
